@@ -1,0 +1,54 @@
+[
+    {
+        "id": 4,
+        "nombreSuperheroe": "Black Widow",
+        "nombreReal": "Natasha Romanoff",
+        "nombreSociedad": "Avengers",
+        "edad": 35,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Sin súper poderes",
+        "poder": "Experta en combate cuerpo a cuerpo, espía",
+        "habilidadEspecial": "Maestra en artes marciales y sigilo",
+        "aliado": "Hawkeye",
+        "enemigo": "Taskmaster"
+    },
+    {
+        "id": 5,
+        "nombreSuperheroe": "Hulk",
+        "nombreReal": "Bruce Banner",
+        "nombreSociedad": "Avengers",
+        "edad": 40,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Dificultad para controlar la ira",
+        "poder": "Fuerza descomunal, regeneración",
+        "habilidadEspecial": "Científico experto en radiación gamma",
+        "aliado": "Thor",
+        "enemigo": "Abominación"
+    },
+    {
+        "id": 6,
+        "nombreSuperheroe": "Captain America",
+        "nombreReal": "Steve Rogers",
+        "nombreSociedad": "Avengers",
+        "edad": 100,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Mortalidad humana",
+        "poder": "Fuerza y agilidad mejoradas, escudo indestructible",
+        "habilidadEspecial": "Estratega y líder excepcional",
+        "aliado": "Bucky Barnes",
+        "enemigo": "Red Skull"
+    },
+    {
+        "id": 7,
+        "nombreSuperheroe": "Doctor Strange",
+        "nombreReal": "Stephen Strange",
+        "nombreSociedad": "Avengers",
+        "edad": 45,
+        "planetaOrigen": "Tierra",
+        "debilidad": "Dependencia de sus manos para hechizos",
+        "poder": "Manipulación de la magia y las dimensiones",
+        "habilidadEspecial": "Hechicero Supremo",
+        "aliado": "Wong",
+        "enemigo": "Dormammu"
+    }
+]
